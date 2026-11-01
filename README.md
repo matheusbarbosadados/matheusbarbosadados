@@ -30,36 +30,6 @@ Meu foco é avançar gradualmente, consolidando os fundamentos e aplicando o que
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api?username=matheusbarbosadados&cache_seconds=7200&layout=compact&theme=radical&border_radius=10"
-    alt="Matheus Barbosa GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=matheusbarbosadados&theme=radical&hide_border=true&cache_seconds=86400"
-    alt="Matheus Barbosa GitHub Streak"
-    width="49%"
-  />
-</p>
-
----
-
-## 🛠️ Languages & Tools
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=matheusbarbosadados&langs_count=8&layout=compact&theme=radical&border_radius=10"
-    alt="Top Languages"
-  />
-</p>
-
----
-
 ## 📚 Como comecei na área de Dados
 
 Minha base profissional foi construída em **rotinas administrativas, faturamento e relacionamento com clientes**. A necessidade de validar bases operacionais e automatizar controles de cadastros me fez mergulhar no Excel Avançado.
@@ -151,7 +121,7 @@ Este GitHub acompanha esse processo.
 ---
 
 <p align="center">
-  <i>Uma nova área, novos desafios e muito aprendizado pela frente. 🚀</i>
+  <i>Transformando rotinas operacionais em inteligência de dados. 🚀</i>
 </p>
 
 <div align="center">
