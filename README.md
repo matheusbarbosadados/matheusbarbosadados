@@ -2,7 +2,7 @@
 
 <p>Sou estudante de <strong>Tecnólogo em Banco de Dados</strong> e possuo formação como Técnico em Administração. Atualmente, estou direcionando minha trajetória profissional para a área de tecnologia.</p>
 
-<p>Meu contato com os dados começou na área de <strong>Back-Office e rotinas administrativas</strong>. A necessidade de organizar processos me levou ao Excel e, com o tempo, esse interesse se transformou em uma rotina de estudos em bancos de dados, automação e visualização.</p>
+<p>Meu contato com os dados começou na área de <strong>Backoffice e rotinas administrativas</strong>. A necessidade de organizar processos me levou ao Excel e, com o tempo, esse interesse se transformou em uma rotina de estudos em bancos de dados, automação e visualização.</p>
 
 <p>Atualmente, busco oportunidades como <strong>Estagiário em Banco de Dados, BI ou Inteligência de Dados</strong>, buscando construir uma base sólida e transformar conhecimento teórico em ferramentas práticas para o mercado de trabalho.</p>
 
@@ -60,7 +60,7 @@ Mais do que reunir apenas projetos finalizados, quero que este espaço registre 
 
 ## 🧠 Administração + Tecnologia
 
-A experiência construída ao longo do tempo no **ambiente administrativo de Back-Office** contribuiu para o desenvolvimento de habilidades que considero vitais na área de tecnologia e Business Intelligence.
+A experiência construída ao longo do tempo no **ambiente administrativo de Backoffice** contribuiu para o desenvolvimento de habilidades que considero vitais na área de tecnologia e Business Intelligence.
 
 Entre elas:
 
@@ -121,7 +121,7 @@ Este GitHub acompanha esse processo.
 ---
 
 <p align="center">
-  <i>Transformando rotinas operacionais em inteligência de dados. 🚀</i>
+  <i>Transformando rotinas operacionais em inteligência de dados 🚀</i>
 </p>
 
 <div align="center">
