@@ -7,10 +7,8 @@
 <p>Atualmente, busco oportunidades como <strong>Estagiário em Banco de Dados, BI ou Inteligência de Dados</strong>, buscando construir uma base sólida e transformar conhecimento teórico em ferramentas práticas para o mercado de trabalho.</p>
 
 ---
-<div align="center">
-  <img src="<img width="650" height="650" alt="image" src="https://github.com/user-attachments/assets/ef70df26-66b1-4a3a-9a6c-f9628160c9cc" />
-" height="250" alt="Banner Tecnológico" />
-</div>
+<img width="650" height="650" alt="8e0253a98fc03c9f9d067641003339e9" src="https://github.com/user-attachments/assets/95ec0e6b-68d1-496f-9c01-54fcf5bcf420" />
+
 
 ## 🚀 Tecnologias e ferramentas
 
