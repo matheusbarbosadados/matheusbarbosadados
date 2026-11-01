@@ -4,7 +4,7 @@ Sou estudante de **Tecnólogo em Banco de Dados** e possuo formação como Técn
 Meu contato com os dados começou na área de Back-Office e rotinas administrativas. A necessidade de organizar processos me levou ao Excel Avançado e, com o tempo, esse interesse se transformou em uma rotina de estudos em SQL, Python e Power BI para construir uma base sólida em análise e tratamento de dados.
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FjZDIzM2JhNDk0Nzg5OGMzZjM0ZDJiZDYxNjQxNzNiNjQ4YmQ2ZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L8K62iDadew0/giphy.gif" width="600" alt="Tech Data GIF" />
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/496ecb14589707.562865d064f8e.gif" width="600" alt="Tech Data GIF" />
 </div>
 
 ---
