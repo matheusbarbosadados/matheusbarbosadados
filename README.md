@@ -64,7 +64,7 @@ Aqui pretendo reunir:
 - 📖 Exercícios práticos e queries em SQL
 - 📊 Dashboards e modelagens no Power BI
 - 🐍 Automações em Python (com READMEs explicando as limitações de cada uma)
-- 🤖 Testes de códigos e lógicas com o apoio de Inteligências Artificiais (ChatGPT, Claude, Gemini)
+- 🤖 Testes de códigos e lógicas com o apoio de Inteligências Artificiais (ChatGPT, Claude, Gemini e DeepSeek)
 - 📝 Documentação detalhada dos meus aprendizados
 
 Mais do que reunir apenas projetos finalizados, quero que este espaço registre **minha evolução ao longo do processo de aprendizado**.
