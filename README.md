@@ -9,6 +9,19 @@
 ---
 <img width="650" height="650" alt="8e0253a98fc03c9f9d067641003339e9" src="https://github.com/user-attachments/assets/95ec0e6b-68d1-496f-9c01-54fcf5bcf420" />
 
+## 📂 Meus projetos e estudos
+
+Aqui estão os trabalhos organizados por área. Clique no nome para abrir a pasta.
+
+- 📊 **[power-bi-dashboards](power-bi-dashboards):** Prints e dashboards criados no Power BI.
+- 📗 **[excel-exercicios](excel-exercicios):** Exercícios práticos de Excel.
+- 🗄️ **[sql-estudos](sql-estudos):** Exercícios de SQL e apostilas de estudo.
+- 🐍 **[python-utilidades](python-utilidades):** Automações em Python.
+- 📄 **[pdf-para-excel](pdf-para-excel):** Conversão de dados de PDF para planilha.
+- 📑 **[planilha-a-e-b](planilha-a-e-b):** Comparação e tratamento entre duas planilhas.
+- 🧹 **[tratamento-de-dados](tratamento-de-dados):** Limpeza e padronização de dados.
+
+---
 
 ## 🚀 Tecnologias e ferramentas
 
@@ -17,7 +30,7 @@ Gosto de ser transparente sobre meu processo de aprendizado. Atualmente, este é
 - 🟢 **Excel (Avançado):** Facilidade com fórmulas lógicas (PROCV, PROCX, ÍNDICE+CORRESP), tabelas dinâmicas e formatação.
 - 🟡 **Power BI (Intermediário):** Importação de bases, relacionamento de tabelas e criação de dashboards.
 - 🟠 **SQL / MySQL (Básico a Intermediário):** Lógica de bancos relacionais e consultas (SELECT, WHERE, JOINs).
-- 🔴 **Python (Iniciante):** Entendendo fundamentos lógicos e criando automações com o apoio de Inteligências Artificiais.
+- 🟠 **Python (Básico a Intermediário):** Fundamentos lógicos, automações, tratamento de dados e criação de projetos com README, com o apoio de Inteligências Artificiais.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
