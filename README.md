@@ -13,13 +13,13 @@
 
 Aqui estão os trabalhos organizados por área. Clique no nome para abrir a pasta.
 
-- 📊 **[power-bi-dashboards](power-bi-dashboards):** Prints e dashboards criados no Power BI.
-- 📗 **[excel-exercicios](excel-exercicios):** Exercícios práticos de Excel.
-- 🗄️ **[sql-estudos](sql-estudos):** Exercícios de SQL e apostilas de estudo.
-- 🐍 **[python-utilidades](python-utilidades):** Automações em Python.
-- 📄 **[pdf-para-excel](pdf-para-excel):** Conversão de dados de PDF para planilha.
-- 📑 **[planilha-a-e-b](planilha-a-e-b):** Comparação e tratamento entre duas planilhas.
-- 🧹 **[tratamento-de-dados](tratamento-de-dados):** Limpeza e padronização de dados.
+- 📊 **[power-bi-dashboards](https://github.com/matheusbarbosadados/portfolio-dados/tree/main/power-bi-dashboards):** Prints e dashboards criados no Power BI.
+- 📗 **[excel-exercicios](https://github.com/matheusbarbosadados/portfolio-dados/tree/main/excel-exercicios):** Exercícios práticos de Excel.
+- 🗄️ **[sql-estudos](https://github.com/matheusbarbosadados/portfolio-dados/tree/main/sql-estudos):** Exercícios de SQL e apostilas de estudo.
+- 🐍 **[python-utilidades](https://github.com/matheusbarbosadados/portfolio-dados/tree/main/python-utilidades):** Automações em Python.
+- 📄 **[pdf-para-excel](https://github.com/matheusbarbosadados/portfolio-dados/tree/main/pdf-para-excel):** Conversão de dados de PDF para planilha.
+- 📑 **[planilha-a-e-b](https://github.com/matheusbarbosadados/portfolio-dados/tree/main/planilha-a-e-b):** Comparação e tratamento entre duas planilhas.
+- 🧹 **[tratamento-de-dados](https://github.com/matheusbarbosadados/portfolio-dados/tree/main/tratamento-de-dados):** Limpeza e padronização de dados.
 
 ---
 
