@@ -13,8 +13,7 @@
 
 Aqui estão os trabalhos organizados por área. Clique no nome para abrir a pasta.
 
-- 🗳️ **[tse_participacao_eleitoral](https://github.com/matheusbarbosadados/portfolio-dados/tree/main/tse_participacao_eleitoral):** Participação nas eleições presidenciais de 2026 com dados públicos do TSE (Python, MySQL e Power BI).
-- 🗳️ **[tse_participacao_eleitoral](https://github.com/matheusbarbosadados/portfolio-dados/tree/main/1_mega_projetos/tse_participacao_eleitoral):** Análise de abstenções, votos brancos e nulos nas eleições de 2026 com dados do TSE (Python, MySQL e Power BI).
+- 🗳️ **[tse_participacao_eleitoral](https://github.com/matheusbarbosadados/portfolio-dados/tree/main/1_mega_projetos/tse_participacao_eleitoral):** Análise de inatividade eleitoral em 2026 com dados do TSE (Python, MySQL e Power BI).
 - 📊 **[power-bi-dashboards](https://github.com/matheusbarbosadados/portfolio-dados/tree/main/power-bi-dashboards):** Prints e dashboards criados no Power BI.
 - 📗 **[excel-exercicios](https://github.com/matheusbarbosadados/portfolio-dados/tree/main/excel-exercicios):** Exercícios práticos de Excel.
 - 🗄️ **[sql-estudos](https://github.com/matheusbarbosadados/portfolio-dados/tree/main/sql-estudos):** Exercícios de SQL e apostilas de estudo.
