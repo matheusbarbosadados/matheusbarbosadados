@@ -13,14 +13,14 @@
 
 Aqui estão os trabalhos organizados por área. Clique no nome para abrir a pasta.
 
-- 🗳️ **[tse_participacao_eleitoral](https://github.com/matheusbarbosadados/portfolio-dados/tree/main/1_mega_projetos/tse_participacao_eleitoral):** Análise de inatividade eleitoral em 2026 com dados do TSE (Python, MySQL e Power BI).
-- 📊 **[power-bi-dashboards](https://github.com/matheusbarbosadados/portfolio-dados/tree/main/power-bi-dashboards):** Prints e dashboards criados no Power BI.
-- 📗 **[excel-exercicios](https://github.com/matheusbarbosadados/portfolio-dados/tree/main/excel-exercicios):** Exercícios práticos de Excel.
-- 🗄️ **[sql-estudos](https://github.com/matheusbarbosadados/portfolio-dados/tree/main/sql-estudos):** Exercícios de SQL e apostilas de estudo.
-- 🐍 **[python-utilidades](https://github.com/matheusbarbosadados/portfolio-dados/tree/main/python-utilidades):** Automações em Python.
-- 📄 **[pdf-para-excel](https://github.com/matheusbarbosadados/portfolio-dados/tree/main/pdf-para-excel):** Conversão de dados de PDF para planilha.
-- 📑 **[planilha-a-e-b](https://github.com/matheusbarbosadados/portfolio-dados/tree/main/planilha-a-e-b):** Comparação e tratamento entre duas planilhas.
-- 🧹 **[tratamento-de-dados](https://github.com/matheusbarbosadados/portfolio-dados/tree/main/tratamento-de-dados):** Limpeza e padronização de dados.
+- 🗳️ **[TSE Participacao Eleitoral](https://github.com/matheusbarbosadados/portfolio-dados/tree/main/1_mega_projetos/tse_participacao_eleitoral):** Análise de inatividade eleitoral em 2026 com dados do TSE (Python, MySQL e Power BI).
+- 📊 **[Power BI Dashboards](https://github.com/matheusbarbosadados/portfolio-dados/tree/main/power-bi-dashboards):** Dashboards criados diretamente no Power BI.
+- 📗 **[Excel Exercicios](https://github.com/matheusbarbosadados/portfolio-dados/tree/main/excel-exercicios):** Exercícios práticos de Excel.
+- 🗄️ **[SQL Estudos](https://github.com/matheusbarbosadados/portfolio-dados/tree/main/sql-estudos):** Exercícios de SQL e apostilas de estudo.
+- 🐍 **[Python Utilidades](https://github.com/matheusbarbosadados/portfolio-dados/tree/main/python-utilidades):** Automações em Python.
+- 📄 **[PDF para Excel](https://github.com/matheusbarbosadados/portfolio-dados/tree/main/pdf-para-excel):** Conversão de dados de PDF para planilha.
+- 📑 **[Planilha A & B](https://github.com/matheusbarbosadados/portfolio-dados/tree/main/planilha-a-e-b):** Comparação e tratamento entre duas planilhas.
+- 🧹 **[Tratamento de Dados](https://github.com/matheusbarbosadados/portfolio-dados/tree/main/tratamento-de-dados):** Limpeza e padronização de dados.
 
 ---
 
